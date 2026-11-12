@@ -1,0 +1,10 @@
+cache-dir: ~/.cache
+registry: default
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
+cache-dir: ~/.cache
+registry: default
